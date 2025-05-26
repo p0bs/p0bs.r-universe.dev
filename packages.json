@@ -6,5 +6,9 @@
     {
         "package": "DataKindR",
         "url": "https://github.com/p0bs/DataKindR"
+    },
+    {
+        "package": "PremPredict",
+        "url": "https://github.com/p0bs/PremPredict"
     }
 ]
